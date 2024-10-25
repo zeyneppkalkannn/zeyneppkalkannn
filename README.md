@@ -1,4 +1,4 @@
-[! [MasterHead] <h1 align="center">Hi 👋, I'm Zeynep Kalkan👩🏻‍💻</h1>
+<h1 align="center">Hi 👋, I'm Zeynep Kalkan👩🏻‍💻</h1>
 <h3 align="center">I am interested in Cybersecurity🔐.</h3>
 
 - 🏗️Data Structures: [Restaurant Order Tracking](https://github.com/zeyneppkalkannn/Restorantsipari-takibiyapanprogram)
