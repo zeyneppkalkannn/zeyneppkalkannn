@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep Kalkan👩🏻‍💻</h1>
-<h3 align="center">I am interested in Cybersecurity🔐.</h3>
+<h3 align="center">I am interested in Cybersecurity🔐</h3>
 
 - 🕵🏻‍♀️Osint: [McpExiftool](https://github.com/zeyneppkalkannn/McpExiftool)
 
